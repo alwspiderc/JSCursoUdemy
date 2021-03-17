@@ -1,6 +1,6 @@
 # Curso Web Moderno Completo com JavaScript (Cod3r Cursos Online)
 
-## Conteúdos
+## Conteúdo
 
 * JavaScript
 
