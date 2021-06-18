@@ -8,4 +8,4 @@ function expoente (base, expoente) {
     return resultado
 }
 
-console.log(expoente(2, 3))
+console.log(expoente(2, 4))
